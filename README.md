@@ -1,7 +1,6 @@
- - I am a self taught lua and glsl coder. I make mods and very rarely shaders for minetest, and I'm also learning c++
- - I also code in python, and very rarely java.
+ - I am a self taught developer that can do a variety of different languages.
 
- - I also enjoy studying weather and meteorology in my free time which is why I'm building a new weather radar application.
+ - I also enjoy studying weather and meteorology in my free time.
  - 
 <a href="https://github.com/DragonWrangler1"><img src="https://github-readme-stats.vercel.app/api?username=DragonWrangler1&theme=codeSTACKr" alt="DragonWrangler1's GitHub stats" style="max-width: 100%;"></a>
 <a href="https://github.com/DragonWrangler1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonWrangler1&theme=codeSTACKr&layout=compact" alt="Top Langs" style="max-width: 100%;"></a>
